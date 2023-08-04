@@ -1,0 +1,141 @@
+body{
+    background-color: #8064A1;
+}
+
+header{
+    background-color: #9BBB58;
+    display: list-item;
+    width: auto;
+    border: solid;
+    border-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
+    margin-left: 5vh;
+    margin-right: 5vh;
+    list-style: none;
+}
+
+nav{
+    background-color: white;
+    display: list-item;
+    width: auto;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    list-style: none;
+    border: solid;
+}
+
+section{
+    background-color:#C0504E;
+    display: list-item;
+    margin-left: 5vh;
+    list-style: none;
+    height: 450px;
+    margin-top: 30px;
+    border: solid;
+    border-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
+}
+
+article{
+    background-color:#4AACC5;
+    display: list-item;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    list-style: none;
+    height: 300px;
+    width: auto;
+    margin-top: 30px;
+    border: solid;
+    border-color: white;    
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+
+p{
+    background-color: #F79647;
+    display: list-item;
+    border: solid;
+    border-color: white;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
+    margin-left: 5vh;
+    margin-right: 5vh;
+    list-style: none;
+    height: 35px;    
+}
+
+aside{
+    background-color: #ffffff;
+    display: list-item;
+    border: solid;
+    border-width: 1px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
+    margin-top: -4px;
+    margin-left: 1vh;
+    float: right;
+    width: 30%;
+    margin-right: 5vh;
+    list-style: none;
+    height: 35px;     
+}
+
+footer{
+    background-color: white;
+    display: list-item;
+    width: auto;
+    margin-left: 5vh;
+    margin-right: 5vh;
+    list-style: none;
+    height: 50px;
+}
+.header1{
+    height: 130px;
+    margin-top: 25px;
+}
+
+.header2{
+    height: 35px;
+    margin-top: 50px;
+}
+
+.section1{
+    float: left;
+    width: 60%;
+}
+
+.section2{
+    float: right;
+    width: 30%;
+    margin-right: 5vh;
+}
+
+.nav1{
+    margin-top: 55px;
+    height: 50px;
+}
+
+.nav2{
+    margin-top: 30px;
+    height: 280px;    
+}
+
+.p1{
+    margin-top: 3px;
+    width: auto;
+}
+
+.p2{
+    margin-top: -6px;
+    float: left;
+    width: 50%;
+}
+
+.footer1{
+    border: solid;
+    border-width: 1px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4); 
+    margin-top: 70px;
+}
+
+.footer2{
+    border: solid;
+    margin-top: 515px;
+}
